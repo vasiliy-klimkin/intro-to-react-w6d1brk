@@ -78,6 +78,8 @@ countUp = () => {
 
 ### Using Conditionals
 
+(Condionals we Worked on here)[https://github.com/vasiliy-klimkin/intro-to-react-w6d1brk/blob/master/lecture/src/App.jsx]
+
 We cannot use conditionals inside of a render of jsx
 
 Wrong Way!
